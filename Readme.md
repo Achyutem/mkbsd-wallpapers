@@ -16,8 +16,7 @@
 if you want to download a definate number of wallpapers, you can change the count in line 25 in `index.js` as instrcuted on line 24.
 
 ## Why this repo?
-most if not all of the wallpaper comes from public buckets.
-Example - https://apoorvnandan.github.io/panels/
+The walls are available on a public bucket so its fair use.
 
 also 
 ![mkbhd](mkbhd.png)
